@@ -6,7 +6,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.offcn.dao.StuDao;
 import com.offcn.po.Stu;
-
+//******************************************************88
 public class TestDao {
 
 	public static void main(String[] args) {
